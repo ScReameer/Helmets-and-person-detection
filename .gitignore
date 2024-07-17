@@ -1,0 +1,4 @@
+runs
+detections
+*.avi
+*.pt
