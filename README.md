@@ -1,3 +1,3 @@
 # Helmets and person detection using YOLOv8
-Example:
+Example:  
 ![](example/workers.gif)
